@@ -4,6 +4,9 @@ I'm Emircan Aktaş. I'm a Computer Programmer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EmircanAktas26)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmircanAktas26&layout=compact)](https://github.com/EmircanAktas26/github-readme-stats)
+
+
 ## Graduation
 
 B.S in Computer Programmer | [Iskenderun Technical University](https://iste.edu.tr/)
