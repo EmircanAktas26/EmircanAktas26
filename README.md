@@ -1,6 +1,7 @@
 ### Hi! Welcome to my github page. 👋
 
 I'm Emircan Aktaş. I'm a Computer Programmer
+https://links.dev/emircanaktas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EmircanAktas26)
 
